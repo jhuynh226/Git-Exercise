@@ -21,7 +21,7 @@ body {
 .hello-world-body {
   display: flex;
   column-gap: 20px;
-  color: white;
+  color: red;
   align-items: center;
   justify-content: center;
 }
