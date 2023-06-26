@@ -2,20 +2,21 @@ body {
   background-color: gray;
   padding: 0px 0px 1000px 0px;
   font-family: arial;
-  padding-top: 30px;
+  padding-top: 50px;
 }
 
 .hello-world-header {
   background-color: black;
   color: white;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   position: fixed;
   left: 0px;
   right: 0px;
   top: 0px;
-  height: 30px;
+  height: 50px;
 }
 
 .hello-world-body {
